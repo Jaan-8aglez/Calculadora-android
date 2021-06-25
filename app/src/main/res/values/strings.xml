@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi calculadora</string>
+    <string name="hint_input">Introduce tu transaccion</string>
+    <string name="calc.btn.siete">7</string>
+    <string name="calc.btn.cuatro">4</string>
+    <string name="calc.btn.uno">1</string>
+    <string name="calc.btn.punto">.</string>
+</resources>
